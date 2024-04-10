@@ -7,7 +7,7 @@ permalink: /about/
 the risk I took was calculated, but man am I bad at math.
 
 ### why insublime?
-1. It is an antonym of sublime: impressing the mind with a sense of grandeur or power; inspiring awe
+1. It is an antonym of sublime, which means "impressing the mind with a sense of grandeur or power; inspiring awe."
 2. It was an available Domain Hack
 
 ### more Information

@@ -7,7 +7,7 @@ tags:
   - information
 ---
 Below are codes that are publicly available for redemption on bungie.net/redeem. 
-If I have missed a code, or a code is no longer valid, please email me (on the [[about]] page).
+If I have missed a code, or a code is no longer valid, please let me know via [email](./about), issue, or PR on [github](https://github.com/s-crypt/blog).
 
 | **Code**                                                               | **Name**                                                                                                   | **Bad Description**                   | **Rating** |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------- | ---------- |
@@ -48,3 +48,5 @@ If I have missed a code, or a code is no longer valid, please email me (on the [
 | [FMM44ARKP](https://www.bungie.net/7/en/Codes/Redeem/?token=FMM44ARKP) | **[Myopia](https://www.light.gg/db/items/4183788698/myopia/)**                                             | Cybernetic contacts                   | cool       |
 | [3J9AMM7MG](https://www.bungie.net/7/en/Codes/Redeem/?token=3J9AMM7MG) | **[Folding Space](https://www.light.gg/db/items/4183788697/folding-space/)**                               | Kid drawing of the D2 universe        | amazing    |
 | [PTDGKGCVN](https://www.bungie.net/7/en/Codes/Redeem/?token=PTDGKGCVN) | **[Archived](https://www.light.gg/db/items/4183788696/archived/)**                                         | rustic earth militia symbol           | ok         |
+| [6AJXFR9ND](https://www.bungie.net/7/en/Codes/Redeem/?token=6AJXFR9ND) | [Tigris Fati](https://www.light.gg/db/items/2790542793/tigris-fati/)                                       | bobcat, dark, damascus                | cool       |
+Last Updated: 2024-04-09

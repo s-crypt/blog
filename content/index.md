@@ -24,3 +24,6 @@ title: Hello
 <br/><br/>
 [[Hello-World]]
 <br/><br/>
+<br/><br/>
+**This site is open source!** View the source on github:
+https://github.com/s-crypt/blog
