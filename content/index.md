@@ -4,6 +4,8 @@ title: Hello
 
 <strong>Here are some things I have worked on:</strong>
 <br/><br/>
+[The Better Way to use cloudflared and PiHole](./cloudflared-and-pihole) - Easy secure DNS for PiHole using cloudflared.
+<br/><br/>
 [A Beginners Guide to Investing](A-Beginners-Guide-to-Investing.md) - A true beginners guide to investing in the stock market.
 <br/><br/>
 [Awesome Community Data Projects](Awesome-Community-Data-Projects.md) - A list of Community driven data projects / databases.
