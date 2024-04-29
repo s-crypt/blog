@@ -4,6 +4,8 @@ title: Hello
 
 <strong>Here are some things I have worked on:</strong>
 <br/><br/>
+[An Intermediate Guide to Investing](./An-Intermediate-Guide-to-Investing) - Part 2. Some more things you can do to make the most of your money.
+<br/><br/>
 [The Better Way to use cloudflared and PiHole](./cloudflared-and-pihole) - Easy secure DNS for PiHole using cloudflared.
 <br/><br/>
 [A Beginners Guide to Investing](A-Beginners-Guide-to-Investing.md) - A true beginners guide to investing in the stock market.
