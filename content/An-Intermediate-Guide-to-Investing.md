@@ -1,5 +1,5 @@
 ---
-title: A Beginners Guide to Investing
+title: A Intermediate Guide to Investing
 date: 2024-04-28
 tags:
   - finance
