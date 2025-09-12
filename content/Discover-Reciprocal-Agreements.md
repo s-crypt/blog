@@ -14,64 +14,65 @@ Visa and Mastercard just absorb local companies to increase their acceptance as 
 In search for Discover's agreements, I never found a comprehensive list, so I hope to create that here. 
 Keep in mind that all of this is in addition to Discover's own presence in multiple countries. It will be updated as I get more info. 
 
-| Country                 | Network                                              |
-|-------------------------|------------------------------------------------------|
-| Argentina               | Cabal                                                |
-| Austria                 | EUFISERV Payments                                    |
-| Bahrain                 | Arab Financial Services (AFS)                        |
-| Bahrain                 | Eazy Sign                                            |
-| Belgium                 | EUFISERV Payments                                    |
-| Brazil                  | Elo                                                  |
-| Brazil                  | Cabal                                                |
-| Bulgaria                | Borica/Bcard                                         |
-| Canada (Mostly Quebec)  | Desjardins Group                                     |
-| China                   | UnionPay                                             |
-| China                   | Allinpay                                             |
-| Denmark                 | Nets                                                 |
-| Finland                 | Nets                                                 |
-| France                  | La Banque Postale                                    |
-| France                  | Crédit Mutuel Arkéa                                  |
-| France                  | EUFISERV Payments                                    |
-| Germany                 | EUFISERV Payments                                    |
-| Hong Kong               | JCB                                                  |
-| Hong Kong               | Allinpay                                             |
-| India                   | BANCOMAT                                             |
-| India                   | RuPay                                                |
-| International*          | Diner's Club (*59 Countries with Varying Acceptance) |
-| Ireland                 | EVO                                                  |
-| Japan                   | JCB                                                  |
-| Jordan                  | Network International Jordan                         |
-| Lebanon                 | areeba                                               |
-| Malaysia                | Paynet                                               |
-| Mexico                  | Prosa                                                |
-| Nigeria                 | Interswitch LTD                                      |
-| Norway                  | Nets                                                 |
-| Oman                    | NBO (National Bank of Oman)                          |
-| Paraguay                | Cabal                                                |
-| Portugal                | EUFISERV Payments                                    |
-| Portugal                | SIBS MB                                              |
-| Puerto Rico             | ATH                                                  |
-| Saudi Arabia            | Saudi Payments                                       |
-| Serbia                  | Dinacard                                             |
-| Singapore               | FOMO Pay                                             |
-| South Korea             | BC Card                                              |
-| Southeast Asia (online) | 2C2P                                                 |
-| Spain                   | EUFISERV Payments                                    |
-| Sweden                  | EUFISERV Payments                                    |
-| Sweden                  | Nets                                                 |
-| Switzerland             | EUFISERV Payments                                    |
-| Taiwan                  | NCCC                                                 |
-| Turkey                  | BKM                                                  |
-| Turkey                  | Troy                                                 |
-| United Arab Emirates    | Network International                                |
-| United Kingdom          | Barclaycard                                          |
-| United Kingdom          | EVO                                                  |
-| United States           | Discover                                             |
-| Uruguay                 | Cabal                                                |
-| Vietnam                 | NAPAS (National Payments Corporation of Vietnam)     |
+| Country                 | Network                                              | Source   |
+|-------------------------|------------------------------------------------------|----------|
+| Argentina               | Cabal                                                | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Discover-Global-Network-and-Cabal-Cooperativa-De-Provision-De-Servicios-Limitada-Sign-Network-Agreement/default.aspx) |
+| Austria                 | EUFISERV Payments                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/EUFISERV-Expands-European-And-Global-Coverage-With-PULSE-Global-ATM-Network/default.aspx) |
+| Bahrain                 | Arab Financial Services (AFS)                        | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2021/Arab-Financial-Services-and-Discover-Sign-Network-Alliance-Agreement/default.aspx) |
+| Bahrain                 | Eazy Sign                                            | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2021/Discover-and-Eazy-Sign-Agreement-to-Grow-Acceptance-for-Cardholders/default.aspx) |
+| Belgium                 | EUFISERV Payments                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/EUFISERV-Expands-European-And-Global-Coverage-With-PULSE-Global-ATM-Network/default.aspx) |
+| Brazil                  | Elo                                                  | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2015/Discover-Announces-Strategic-Network-Service-Agreement-With-Brazilian-Domestic-Card-Network-Elo/default.aspx) |
+| Brazil                  | Cabal                                                | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Discover-Global-Network-and-Cabal-Cooperativa-De-Provision-De-Servicios-Limitada-Sign-Network-Agreement/default.aspx) |
+| Bulgaria                | Borica/Bcard                                         | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Borica-Announces-Network-Alliance-with-Discover/default.aspx) |
+| Canada (Mostly Quebec)  | Desjardins Group                                     | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2017/Discover-Global-Network-Signs-Deal-with-Desjardins-Group-to-Expand-Merchant-Credit-Card-Acceptance-in-Canada/default.aspx) |
+| China                   | UnionPay                                             | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2005/Discover-Financial-Services-And-China-Unionpay-Announce-Strategic-Alliance/default.aspx) |
+| China                   | Allinpay                                             | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2017/Allinpay-to-Grow-Acceptance-for-Diners-Club-International-in-Hong-Kong/default.aspx) |
+| Denmark                 | Nets                                                 | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Discover-to-Increase-Acceptance-in-the-Nordics-Through-Agreement-with-Nets/default.aspx) |
+| Finland                 | Nets                                                 | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Discover-to-Increase-Acceptance-in-the-Nordics-Through-Agreement-with-Nets/default.aspx) |
+| France                  | La Banque Postale                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/La-Banque-Postales-Merchant-Clients-Can-Now-Accept-Discover-Global-Network-Cards/default.aspx) |
+| France                  | Crédit Mutuel Arkéa                                  | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Crdit-Mutuel-Arka-and-Discover-Global-Network-Sign-an-Agreement/default.aspx) |
+| France                  | EUFISERV Payments                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/EUFISERV-Expands-European-And-Global-Coverage-With-PULSE-Global-ATM-Network/default.aspx) |
+| Germany                 | EUFISERV Payments                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/EUFISERV-Expands-European-And-Global-Coverage-With-PULSE-Global-ATM-Network/default.aspx) |
+| Hong Kong               | JCB                                                  | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2006/Discover-Financial-Services-And-JCB-Announce-Alliance/default.aspx) |
+| Hong Kong               | Allinpay                                             | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2017/Allinpay-to-Grow-Acceptance-for-Diners-Club-International-in-Hong-Kong/default.aspx) |
+| India                   | BANCOMAT                                             | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2022/Discover-and-BANCOMAT-Establish-Partnership-to-Increase-Acceptance-in-Italy/default.aspx) |
+| India                   | RuPay                                                | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/Discover-Financial-Services-And-National-Payment-Corporation-Of-India-Announce-Strategic-Alliance-Enabling-Increased-Network-Acceptance/default.aspx) |
+| International*          | Diner's Club (*59 Countries with Varying Acceptance) |  |
+| Ireland                 | EVO                                                  | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/EVO-Payments-Allows-Discover-Global-Network-Cardholders-to-Pay-at-More-Locations-in-the-UK-and-Ireland/default.aspx) |
+| Japan                   | JCB                                                  | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2006/Discover-Financial-Services-And-JCB-Announce-Alliance/default.aspx) |
+| Jordan                  | Network International Jordan                         | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2021/Discover-Opens-Acceptance-in-Jordan-Through-Agreement-with-JONET/default.aspx) |
+| Lebanon                 | areeba                                               | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2020/areeba-and-Discover-sign-Network-Alliance-Agreement/default.aspx) |
+| Malaysia                | Paynet                                               | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2021/Discover-Announces-Alliance-with-Malaysias-PayNet-to-Expand-Worldwide-Acceptance/default.aspx) |
+| Mexico                  | Prosa                                                | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2018/Discover-to-Increase-Card-Acceptance-in-Mexico-Through-Network-Alliance-with-Prosa/default.aspx) |
+| Nigeria                 | Interswitch LTD                                      | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2013/Discover-Financial-Services-Announces-International-Alliance-With-NigeriaS-Interswitch-Limited/default.aspx) |
+| Norway                  | Nets                                                 | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Discover-to-Increase-Acceptance-in-the-Nordics-Through-Agreement-with-Nets/default.aspx) |
+| Oman                    | NBO (National Bank of Oman)                          | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2020/Discover-Increases-Acceptance-in-Oman/default.aspx) |
+| Paraguay                | Cabal                                                | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Discover-Global-Network-and-Cabal-Cooperativa-De-Provision-De-Servicios-Limitada-Sign-Network-Agreement/default.aspx) |
+| Portugal                | EUFISERV Payments                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/EUFISERV-Expands-European-And-Global-Coverage-With-PULSE-Global-ATM-Network/default.aspx) |
+| Portugal                | SIBS MB                                              | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2021/Discover-and-SIBS-MB-Establish-Strategic-Agreement-to-Increase-Payment-Acceptance/default.aspx) |
+| Puerto Rico             | ATH                                                  | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/Discover-And-EVERTEC-Partner-To-Provide-ATH-Financial-Institutions-In-Puerto-Rico-The-Ability-To-Issue-Signature-Debit-Cards/default.aspx) |
+| Saudi Arabia            | Saudi Payments                                       | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2020/Saudi-Payments-and-Discover-Sign-Network-Alliance-Agreement/default.aspx) |
+| Serbia                  | Dinacard                                             | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2010/Discover-Financial-Services-Announces-International-Alliance-With--Serbias-Dinacard/default.aspx) |
+| Singapore               | FOMO Pay                                             | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/FOMO-Pay-Works-with-Discover-to-Increase-Acceptance-for-Cardholders-Worldwide/default.aspx) |
+| South Korea             | BC Card                                              | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2010/Discover-Announces-Alliance-With-Koreas-BC-Card/default.aspx) |
+| Singapore               | NETS (Network for Electronic Transfers)              | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2024/Discover-Global-Network-and-NETS-Collaboration-Expands-Singapore-Acceptance/default.aspx) |
+| Southeast Asia (online) | 2C2P                                                 | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2016/2C2P-to-Work-with-Diners-Club-International-to-Increase-Acceptance-at-Southeast-Asias-E-Commerce-Merchants/default.aspx) |
+| Spain                   | EUFISERV Payments                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/EUFISERV-Expands-European-And-Global-Coverage-With-PULSE-Global-ATM-Network/default.aspx) |
+| Sweden                  | EUFISERV Payments                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/EUFISERV-Expands-European-And-Global-Coverage-With-PULSE-Global-ATM-Network/default.aspx) |
+| Sweden                  | Nets                                                 | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Discover-to-Increase-Acceptance-in-the-Nordics-Through-Agreement-with-Nets/default.aspx) |
+| Switzerland             | EUFISERV Payments                                    | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2012/EUFISERV-Expands-European-And-Global-Coverage-With-PULSE-Global-ATM-Network/default.aspx) |
+| Taiwan                  | NCCC                                                 | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2018/Discover-and-NCCC-Extend-Relationship-by-Signing-Network-Agreement/default.aspx) |
+| Turkey                  | BKM                                                  | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Isbank-Merchants-Now-Accepting-Discover-Global-Network-Cards-Increasing-Acceptance-in-Turkey/default.aspx) |
+| Turkey                  | Troy                                                 | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2017/Discover-and-BKM-Interbank-Card-Center-of-Turkey-Mark-an-Increase-in-Worldwide-Card-Acceptance-with-First-Global-Transaction-Event/default.aspx) |
+| United Arab Emirates    | Network International                                | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2013/Discover-Financial-Services-Announces-Global-Alliance-With-Network-International-In-The-United-Arab-Emirates/default.aspx) |
+| United Kingdom          | Barclaycard                                          | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Barclaycard-UK-merchants-to-accept-cards-that-run-on-the-Discover-Global-Network/default.aspx) |
+| United Kingdom          | EVO                                                  | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/EVO-Payments-Allows-Discover-Global-Network-Cardholders-to-Pay-at-More-Locations-in-the-UK-and-Ireland/default.aspx) |
+| United States           | Discover                                             |  |
+| Uruguay                 | Cabal                                                | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2019/Discover-Global-Network-and-Cabal-Cooperativa-De-Provision-De-Servicios-Limitada-Sign-Network-Agreement/default.aspx) |
+| Vietnam                 | NAPAS (National Payments Corporation of Vietnam)     | [press release](https://investorrelations.discover.com/newsroom/press-releases/press-release-details/2017/Discover-and-NAPAS-Announce-Deal-to-Increase-Global-Footprint-and-Acceptance/default.aspx) |
 
 Sources:
 [Discover Press Releases from the Investor Center](https://investorrelations.discover.com/newsroom/press-releases/default.aspx)
 
 
-Last updated: 2024-01-15
+Last updated: 2025-09-12
