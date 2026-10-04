@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: An Insublime Blog
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: null
   locale: en-US
   baseUrl: blog.insubli.me
   ignorePatterns:
@@ -203,7 +203,9 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
+        Home: https://blog.insubli.me
+        About: https://blog.insubli.me/about
+        GitHub: https://github.com/s-crypt/blog
     layout:
       position: footer
       priority: 50
